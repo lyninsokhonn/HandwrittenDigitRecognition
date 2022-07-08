@@ -1,5 +1,5 @@
 # HandwrittenDigitRecognition
-Handwritten Digit Recognition using Convolutional Neural Network(CNNs) trained on MNIST dataset
+Handwritten Digit Recognition using Convolutional Neural Network(CNNs) trained on MNIST dataset with over 99 percent accuracy.
 
 CNN architecture for this project:
 - Convolution
